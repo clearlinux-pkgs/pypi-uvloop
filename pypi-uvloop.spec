@@ -4,7 +4,7 @@
 #
 Name     : pypi-uvloop
 Version  : 0.16.0
-Release  : 5
+Release  : 6
 URL      : https://files.pythonhosted.org/packages/ab/d9/22bbffa8f8d7e075ccdb29e8134107adfb4710feb10039f9d357db8b589c/uvloop-0.16.0.tar.gz
 Source0  : https://files.pythonhosted.org/packages/ab/d9/22bbffa8f8d7e075ccdb29e8134107adfb4710feb10039f9d357db8b589c/uvloop-0.16.0.tar.gz
 Summary  : Fast implementation of asyncio event loop on top of libuv
