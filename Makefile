@@ -1,5 +1,5 @@
 PKG_NAME := pypi-uvloop
-URL = https://files.pythonhosted.org/packages/9c/16/728cc5dde368e6eddb299c5aec4d10eaf25335a5af04e8c0abd68e2e9d32/uvloop-0.19.0.tar.gz
+URL = https://files.pythonhosted.org/packages/bc/f1/dc9577455e011ad43d9379e836ee73f40b4f99c02946849a44f7ae64835e/uvloop-0.20.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
